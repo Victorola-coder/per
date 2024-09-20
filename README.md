@@ -1,0 +1,1 @@
+The perfect .htaccess file
